@@ -4,7 +4,7 @@ This Chat App is made using Socket.io, Nodejs, HTML, CSS. Users can join a chatr
 
 **Tech Stack**- NodeJs, Socket.io, HTML, CSS
 
-[DEPLOYED LINK](https://letsconnect-chat-app.herokuapp.com/)
+[DEPLOYED LINK](https://chat-app-z2eg.onrender.com/)
 
 ## **HOME PAGE**
 ![enter image description here](https://raw.githubusercontent.com/yashgupta18/chat-app/master/Home%20page.png)
